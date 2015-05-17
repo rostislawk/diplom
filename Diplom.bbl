@@ -12,6 +12,12 @@
   криптографии на эллиптических кривых.}
 \newblock КомКнига, 2006.
 
+\bibitem{gashkov1}
+Кочергин~В.В Гашков~С.Б.
+\newblock Об аддитивных цепочках векторов, вентильных схемах и сложности
+  вычисления степеней.
+\newblock {\em Дискретная математика}, (52):22--40, 1992.
+
 \bibitem{mullin1}
 R.C. Mullin, I.M. Onyszchuk, S.A. Vanstone, and R.M. Wilson.
 \newblock Optimal normal bases in gf(pn).

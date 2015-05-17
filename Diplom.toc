@@ -26,6 +26,6 @@
 \contentsline {chapter}{Оптимизация преобразований базисов}{24}
 \contentsline {section}{\numberline {5.1}О комбинированном использовании полиномиального и нормального базисов}{24}
 \contentsline {section}{\numberline {5.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{25}
-\contentsline {chapter}{\numberline {6}Реализация}{29}
-\contentsline {section}{\numberline {6.1}Множество кандидатов}{30}
-\contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{32}
+\contentsline {chapter}{\numberline {6}Реализация}{32}
+\contentsline {section}{\numberline {6.1}Множество кандидатов}{33}
+\contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{35}
