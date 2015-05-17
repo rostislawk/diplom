@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{bolotov1}
+Фролов~А.Б. Болотов~А.А., Гашков~С.Б.
+\newblock {\em Элементарное введение в эллиптическую криптографию.
+  Алгебраические и алгоритмические основы.}
+\newblock КомКнига, 2006.
+
+\bibitem{bolotov2}
+Фролов~А.Б. Болотов~А.А., Гашков~С.Б.
+\newblock {\em Элементарное введение в эллиптическую криптографию. Протоколы
+  криптографии на эллиптических кривых.}
+\newblock КомКнига, 2006.
+
+\bibitem{mullin1}
+R.C. Mullin, I.M. Onyszchuk, S.A. Vanstone, and R.M. Wilson.
+\newblock Optimal normal bases in gf(pn).
+\newblock {\em Discrete Applied Mathematics}, 22(2):149 -- 161, 1988–1989.
+
+\bibitem{gao1}
+H.W Lenstra~Jr. S~Gao.
+\newblock Optimal normal bases.
+\newblock {\em Designs, Codes and Cryptography}, 22(2):149 -- 161, 1992.
+
+\end{thebibliography}

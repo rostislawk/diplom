@@ -1,0 +1,25 @@
+\input{Preamble.tex} 
+                         	
+\usepackage{textcomp}
+\begin{document}
+\begin{large}
+%Сейчас стоит шрифт 14 кегель, чтобы сделать 12 кегель, надо закомментировать \begin{large}
+% и \end{large} в данном файле
+
+\input{TitlePage.tex}
+\input{annotation.tex}
+\input{TableOfContents.tex}
+\input{intro.tex}
+\input{chapter1_0.tex}
+\input{chapter1_1.tex}
+\input{chapter2_0.tex}
+\input{chapter2_1.tex}
+\input{chapter2_2.tex}
+\input{chapter3_0.tex}
+\input{chapter3_1.tex}
+\addcontentsline{toc}{chapter}{\bibname}
+\bibliographystyle{plain}
+\bibliography{bibl}
+%\input{application.tex}
+\end{large}
+\end{document}

@@ -1,0 +1,31 @@
+\select@language {russian}
+\contentsline {chapter}{Введение}{5}
+\contentsline {chapter}{\numberline {1}Постановка задач}{6}
+\contentsline {chapter}{Постановка задач}{6}
+\contentsline {section}{\numberline {1.1}Фактор-множество}{6}
+\contentsline {section}{\numberline {1.2}Разбиение}{6}
+\contentsline {section}{\numberline {1.3}Увеличение порога}{7}
+\contentsline {section}{\numberline {1.4}Множество кандидатов}{7}
+\contentsline {chapter}{\numberline {2}Оптимизация проверки простоты}{8}
+\contentsline {section}{\numberline {2.1}Деление на малый разряд}{8}
+\contentsline {section}{\numberline {2.2}Деление на несколько малых разрядов}{10}
+\contentsline {section}{\numberline {2.3}Тест Миллера-Рабина}{11}
+\contentsline {chapter}{\numberline {3}Базисы конечных полей}{12}
+\contentsline {chapter}{Базисы конечных полей}{12}
+\contentsline {section}{\numberline {3.1}Стандартные и нормальные базисы}{12}
+\contentsline {section}{\numberline {3.2}Оптимальные нормальные базисы и нормальные базисы низкой сложности}{14}
+\contentsline {chapter}{\numberline {4}Арифметика в нормальных базисах}{17}
+\contentsline {chapter}{Арифметика в нормальных базисах}{17}
+\contentsline {section}{\numberline {4.1}Алгоритм генерации оптимальных нормальных базисов второго типа}{17}
+\contentsline {subsection}{\numberline {4.1.1}Доказательство оптимальности.}{17}
+\contentsline {subsection}{\numberline {4.1.2}Свойства матрицы $T$.}{19}
+\contentsline {section}{\numberline {4.2}Алгоритм генерации оптимальных нормальных базисов третьего типа}{20}
+\contentsline {subsection}{\numberline {4.2.1}Доказательство оптимальности.}{21}
+\contentsline {subsection}{\numberline {4.2.2}Вычисление матрицы $T$.}{22}
+\contentsline {chapter}{\numberline {5}Оптимизация преобразований базисов}{24}
+\contentsline {chapter}{Оптимизация преобразований базисов}{24}
+\contentsline {section}{\numberline {5.1}О комбинированном использовании полиномиального и нормального базисов}{24}
+\contentsline {section}{\numberline {5.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{25}
+\contentsline {chapter}{\numberline {6}Реализация}{28}
+\contentsline {section}{\numberline {6.1}Множество кандидатов}{29}
+\contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{31}
