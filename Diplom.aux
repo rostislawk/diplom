@@ -6,6 +6,8 @@
 \@writefile{lot}{\select@language{russian}}
 \@writefile{toc}{\contentsline {chapter}{Условные обозначения}{7}}
 \@writefile{toc}{\contentsline {chapter}{Введение}{8}}
+\citation{menezes}
+\citation{knut}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Генерация простых чисел}{9}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -17,9 +19,10 @@
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Оптимизация проверки простоты}{10}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Деление на малый разряд}{10}}
 \@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces ModDigit}}{11}}
+\citation{vasilenko}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.2}Деление на несколько малых разрядов}{12}}
 \@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces ModDigits}}{12}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.3}Тест Миллера-Рабина}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.3}Тест Миллера-Рабина}{12}}
 \@writefile{loa}{\contentsline {algorithm}{\numberline {3}{\ignorespaces Miller-Rabin}}{13}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.4}Оценка сложности генерации простого числа}{13}}
 \citation{bolotov1}
@@ -28,9 +31,12 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}Базисы конечных полей}{15}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.1.1}Стандартные и нормальные базисы}{15}}
+\citation{bolotov1}
 \citation{mullin1}
 \citation{gao1}
 \citation{mullin1}
+\citation{dstu}
+\citation{ecdsa}
 \citation{bolotov2}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.1.2}Оптимальные нормальные базисы и их использование в стандартах ECDSA и ДСТУ 4145-2002}{18}}
 \newlabel{table:table1}{{2.1.2}{18}}
@@ -40,18 +46,24 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Алгоритм генерации оптимальных нормальных базисов второго типа}{19}}
 \@writefile{loa}{\contentsline {algorithm}{\numberline {4}{\ignorespaces ONB2GEN}}{20}}
 \@writefile{toc}{\contentsline {subsubsection}{Доказательство оптимальности.}{20}}
+\citation{bolotov1}
 \@writefile{toc}{\contentsline {subsubsection}{Свойства матрицы $T$.}{22}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.3}Алгоритм генерации оптимальных нормальных базисов третьего типа}{23}}
 \@writefile{loa}{\contentsline {algorithm}{\numberline {5}{\ignorespaces ONB3GEN}}{24}}
 \@writefile{toc}{\contentsline {subsubsection}{Доказательство оптимальности.}{24}}
+\citation{bolotov1}
 \@writefile{toc}{\contentsline {subsubsection}{Вычисление матрицы $T$.}{26}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.4}Оптимизация преобразований базисов}{26}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.4.1}О комбинированном использовании полиномиального и нормального базисов}{26}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.4.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{27}}
+\citation{bolotov1}
+\citation{bolotov1}
 \newlabel{lemma}{{2.1}{28}}
 \newlabel{logn3}{{2.3}{29}}
+\citation{bolotov1}
 \citation{gashkov1}
 \newlabel{lfn}{{2.4}{30}}
+\citation{bolotov1}
 \newlabel{otimes}{{2.3}{32}}
 \newlabel{plusminus}{{2.4}{33}}
 \newlabel{minimal}{{2.5}{34}}
@@ -101,13 +113,16 @@
 \@writefile{toc}{\contentsline {chapter}{Заключение}{49}}
 \bibstyle{plain}
 \bibdata{bibl}
-\bibcite{gashkov1}{1}
-\bibcite{bolotov1}{2}
-\bibcite{bolotov2}{3}
-\bibcite{dstu}{4}
-\bibcite{gao1}{5}
-\bibcite{mullin1}{6}
-\bibcite{ecdsa}{7}
+\bibcite{vasilenko}{1}
+\bibcite{knut}{2}
+\bibcite{gashkov1}{3}
+\bibcite{bolotov1}{4}
+\bibcite{bolotov2}{5}
+\bibcite{dstu}{6}
+\bibcite{gao1}{7}
+\bibcite{menezes}{8}
+\bibcite{mullin1}{9}
+\bibcite{ecdsa}{10}
 \@writefile{toc}{\contentsline {chapter}{{\cyrillictext  \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{50}}
 \@writefile{toc}{\contentsline {chapter}{ПРИЛОЖЕНИЕ A. Реализация арифметики в нормальных базисах}{51}}
 \@writefile{lol}{\contentsline {lstlisting}{sources/onb.c}{51}}

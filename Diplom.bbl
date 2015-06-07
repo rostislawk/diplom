@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{vasilenko}
+Василенко~О.Н. Теоретико-числовые алгоритмы в криптографии. / О.Н.~Василенко. -- Москва: МЦНМО. -- 2006. -- 335 с.
+
+\bibitem{knut}
+Кнут~Д. Искусство программирования. Том 2. Получисленные алгоритмы. / Д.~Кнут. -- Вильямс -- 2001. -- 778 с.
+
 \bibitem{gashkov1}
 Кочергин~В.В. Об аддитивных цепочках векторов, вентильных схемах и сложности вычисления степеней. / В.В.~Кочергин, С.Б.~Гашков. // 
 Дискретная математика. -- 1992. -- \textnumero~52. -- С.22--40.
@@ -18,6 +24,9 @@
 
 \bibitem{gao1}
 Lenstra~Jr. H.W. Optimal normal bases. / H.W Lenstra~Jr, S~Gao. // Designs, Codes and Cryptography -- 1992. -- \textnumero~22. -- P.149--161.
+
+\bibitem{menezes}
+Menezes A.J. Handbook of applied cryptography. / A.J. Menezes, Paul C. van Oorschot, Scott A. Vanstone. 5-th printing. -- CRC Press. -- 2001. -- 816 p. 
 
 \bibitem{mullin1}
 Mullin~R.C, Optimal normal bases in gf(pn). / R.C. Mullin, I.M. Onyszchuk, S.A. Vanstone, and R.M. Wilson. //

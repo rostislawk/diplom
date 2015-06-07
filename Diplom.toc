@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {1.2}Оптимизация проверки простоты}{10}
 \contentsline {subsection}{\numberline {1.2.1}Деление на малый разряд}{10}
 \contentsline {subsection}{\numberline {1.2.2}Деление на несколько малых разрядов}{12}
-\contentsline {subsection}{\numberline {1.2.3}Тест Миллера-Рабина}{13}
+\contentsline {subsection}{\numberline {1.2.3}Тест Миллера-Рабина}{12}
 \contentsline {subsection}{\numberline {1.2.4}Оценка сложности генерации простого числа}{13}
 \contentsline {chapter}{\numberline {2}Арифметика в полях характеристики 2}{15}
 \contentsline {section}{\numberline {2.1}Базисы конечных полей}{15}
