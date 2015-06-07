@@ -15,7 +15,7 @@
 \contentsline {chapter}{\numberline {2}Арифметика в полях характеристики 2}{15}
 \contentsline {section}{\numberline {2.1}Базисы конечных полей}{15}
 \contentsline {subsection}{\numberline {2.1.1}Стандартные и нормальные базисы}{15}
-\contentsline {subsection}{\numberline {2.1.2}Оптимальные нормальные базисы и нормальные базисы низкой сложности}{18}
+\contentsline {subsection}{\numberline {2.1.2}Оптимальные нормальные базисы и их использование в стандартах ECDSA и ДСТУ 4145-2002}{18}
 \contentsline {section}{\numberline {2.2}Арифметика в нормальных базисах}{19}
 \contentsline {subsection}{\numberline {2.2.1}Алгоритм генерации оптимальных нормальных базисов второго типа}{19}
 \contentsline {subsubsection}{Доказательство оптимальности.}{20}
@@ -38,4 +38,5 @@
 \contentsline {subsection}{\numberline {3.2.4}Переходы между базисами}{47}
 \contentsline {chapter}{Заключение}{49}
 \contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{50}
-\contentsline {chapter}{\numberline {A}Исходные коды программ}{51}
+\contentsline {chapter}{ПРИЛОЖЕНИЕ A. Реализация арифметики в нормальных базисах}{51}
+\contentsline {chapter}{ПРИЛОЖЕНИЕ Б. Исходный код проверки простоты чисел}{59}

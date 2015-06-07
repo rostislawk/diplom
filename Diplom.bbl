@@ -1,31 +1,30 @@
 \begin{thebibliography}{1}
 
+\bibitem{gashkov1}
+Кочергин~В.В. Об аддитивных цепочках векторов, вентильных схемах и сложности вычисления степеней. / В.В.~Кочергин, С.Б.~Гашков. // 
+Дискретная математика. -- 1992. -- \textnumero~52. -- С.22--40.
+
 \bibitem{bolotov1}
-Фролов~А.Б. Болотов~А.А., Гашков~С.Б.
-\newblock {\em Элементарное введение в эллиптическую криптографию.
-  Алгебраические и алгоритмические основы.}
-\newblock КомКнига, 2006.
+Фролов~А.Б. Элементарное введение в эллиптическую криптографию. Алгебраические и алгоритмические основы. /
+А.Б.~Фролов, А.А.~Болотов, С.Б.~Гашков. -- Москва: КомКнига, 2006.~--~324 c.
 
 \bibitem{bolotov2}
-Фролов~А.Б. Болотов~А.А., Гашков~С.Б.
-\newblock {\em Элементарное введение в эллиптическую криптографию. Протоколы
-  криптографии на эллиптических кривых.}
-\newblock КомКнига, 2006.
+Фролов~А.Б. Элементарное введение в эллиптическую криптографию. Протоколы криптографии на эллиптических кривых. /
+А.Б.~Фролов, А.А.~Болотов, С.Б.~Гашков. -- Москва: КомКнига, 2006.~--~280 c.
 
-\bibitem{gashkov1}
-Кочергин~В.В Гашков~С.Б.
-\newblock Об аддитивных цепочках векторов, вентильных схемах и сложности
-  вычисления степеней.
-\newblock {\em Дискретная математика}, (52):22--40, 1992.
-
-\bibitem{mullin1}
-R.C. Mullin, I.M. Onyszchuk, S.A. Vanstone, and R.M. Wilson.
-\newblock Optimal normal bases in gf(pn).
-\newblock {\em Discrete Applied Mathematics}, 22(2):149 -- 161, 1988–1989.
+\bibitem{dstu}
+Информационные технологии. Криптографическая защита информации. Цифровая подпись, основывающаяся на эллиптических кривых. Формирование и проверка. ДСТУ 4145--2002: 
+ГОСУДАРСТВЕННЫЙ СТАНДАРТ УКРАИНЫ -- 2002. -- Департамент специальных телекоммуникационных систем и защиты информации СБ Украины. -- 42 c.
 
 \bibitem{gao1}
-H.W Lenstra~Jr. S~Gao.
-\newblock Optimal normal bases.
-\newblock {\em Designs, Codes and Cryptography}, 22(2):149 -- 161, 1992.
+Lenstra~Jr. H.W. Optimal normal bases. / H.W Lenstra~Jr, S~Gao. // Designs, Codes and Cryptography -- 1992. -- \textnumero~22. -- P.149--161.
+
+\bibitem{mullin1}
+Mullin~R.C, Optimal normal bases in gf(pn). / R.C. Mullin, I.M. Onyszchuk, S.A. Vanstone, and R.M. Wilson. //
+Discrete Applied Mathematics -- 1988-1989. -- \textnumero~22(2). -- P.149 -- 161.
+
+\bibitem{ecdsa}
+Public Key Cryptography For The Financial Services Industry: The Elliptic Curve Digital Signature Algorithm (ECDSA): -- X9.62-1998 -- 20.09.1998. --
+American National Standards Institute. -- 119 p.
 
 \end{thebibliography}
