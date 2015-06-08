@@ -15,28 +15,31 @@
 \contentsline {chapter}{\numberline {2}Арифметика в полях характеристики 2}{15}
 \contentsline {section}{\numberline {2.1}Базисы конечных полей}{15}
 \contentsline {subsection}{\numberline {2.1.1}Стандартные и нормальные базисы}{15}
-\contentsline {subsection}{\numberline {2.1.2}Оптимальные нормальные базисы и их использование в стандартах ECDSA и ДСТУ 4145-2002}{18}
+\contentsline {subsection}{\numberline {2.1.2}Оптимальные нормальные базисы и их использование в стандартах ECDSA и ДСТУ 4145-2002}{17}
 \contentsline {section}{\numberline {2.2}Арифметика в нормальных базисах}{19}
 \contentsline {subsection}{\numberline {2.2.1}Алгоритм генерации оптимальных нормальных базисов второго типа}{19}
 \contentsline {subsubsection}{Доказательство оптимальности.}{20}
-\contentsline {subsubsection}{Свойства матрицы $T$.}{22}
-\contentsline {section}{\numberline {2.3}Алгоритм генерации оптимальных нормальных базисов третьего типа}{23}
-\contentsline {subsubsection}{Доказательство оптимальности.}{24}
-\contentsline {subsubsection}{Вычисление матрицы $T$.}{26}
-\contentsline {section}{\numberline {2.4}Оптимизация преобразований базисов}{26}
-\contentsline {subsection}{\numberline {2.4.1}О комбинированном использовании полиномиального и нормального базисов}{26}
-\contentsline {subsection}{\numberline {2.4.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{27}
-\contentsline {subsection}{\numberline {2.4.3}Алгоритм перехода от оптимального нормального базиса 2 или 3 типа к стандартному.}{37}
-\contentsline {subsection}{\numberline {2.4.4}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису второго типа}{38}
-\contentsline {subsection}{\numberline {2.4.5}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису третьего типа}{38}
-\contentsline {chapter}{\numberline {3}Реализация}{40}
-\contentsline {section}{\numberline {3.1}Результаты оптимизации генерации простых чисел}{40}
-\contentsline {section}{\numberline {3.2}Результаты оптимизации арифметики в ОНБ}{41}
-\contentsline {subsection}{\numberline {3.2.1}Генерация параметров}{42}
-\contentsline {subsection}{\numberline {3.2.2}Умножение}{44}
-\contentsline {subsection}{\numberline {3.2.3}Возведение в квадрат}{46}
-\contentsline {subsection}{\numberline {3.2.4}Переходы между базисами}{47}
-\contentsline {chapter}{Заключение}{49}
-\contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{50}
-\contentsline {chapter}{ПРИЛОЖЕНИЕ A. Реализация арифметики в нормальных базисах}{51}
-\contentsline {chapter}{ПРИЛОЖЕНИЕ Б. Исходный код проверки простоты чисел}{59}
+\contentsline {subsubsection}{Свойства матрицы $T$.}{21}
+\contentsline {section}{\numberline {2.3}Алгоритм генерации оптимальных нормальных базисов третьего типа}{22}
+\contentsline {subsubsection}{Доказательство оптимальности.}{23}
+\contentsline {subsubsection}{Вычисление матрицы $T$.}{25}
+\contentsline {section}{\numberline {2.4}Вычисление обратного элемента в поле $GF(2^n)$}{25}
+\contentsline {section}{\numberline {2.5}Оптимизация преобразований базисов}{25}
+\contentsline {subsection}{\numberline {2.5.1}О комбинированном использовании полиномиального и нормального базисов}{25}
+\contentsline {subsection}{\numberline {2.5.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{27}
+\contentsline {subsection}{\numberline {2.5.3}Алгоритм перехода от оптимального нормального базиса 2 или 3 типа к стандартному.}{36}
+\contentsline {subsection}{\numberline {2.5.4}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису второго типа}{37}
+\contentsline {subsection}{\numberline {2.5.5}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису третьего типа}{37}
+\contentsline {chapter}{\numberline {3}Реализация}{39}
+\contentsline {section}{\numberline {3.1}Результаты оптимизации генерации простых чисел}{39}
+\contentsline {section}{\numberline {3.2}Результаты оптимизации арифметики в ОНБ}{40}
+\contentsline {subsection}{\numberline {3.2.1}Генерация параметров}{41}
+\contentsline {subsection}{\numberline {3.2.2}Умножение}{43}
+\contentsline {subsection}{\numberline {3.2.3}Возведение в квадрат}{45}
+\contentsline {subsection}{\numberline {3.2.4}Обращение}{46}
+\contentsline {subsection}{\numberline {3.2.5}Переходы между базисами}{48}
+\contentsline {subsection}{\numberline {3.2.6}Относительные скорости основных алгоритмов арифметики}{49}
+\contentsline {chapter}{Заключение}{51}
+\contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{52}
+\contentsline {chapter}{ПРИЛОЖЕНИЕ A. Реализация арифметики в нормальных базисах}{53}
+\contentsline {chapter}{ПРИЛОЖЕНИЕ Б. Исходный код проверки простоты чисел}{61}
