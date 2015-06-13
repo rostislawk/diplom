@@ -1,5 +1,5 @@
 \select@language {russian}
-\contentsline {chapter}{Условные обозначения}{7}
+\contentsline {chapter}{Условные обозначения и сокращения}{7}
 \contentsline {chapter}{Введение}{8}
 \contentsline {chapter}{\numberline {1}Генерация простых чисел}{9}
 \contentsline {section}{\numberline {1.1}Постановка задач}{9}
@@ -28,7 +28,7 @@
 \contentsline {subsection}{\numberline {2.5.1}О комбинированном использовании полиномиального и нормального базисов}{25}
 \contentsline {subsection}{\numberline {2.5.2}Оценка сложности перехода от оптимальных нормальных базисов второго и третьего типа к стандартным и обратно}{27}
 \contentsline {subsection}{\numberline {2.5.3}Алгоритм перехода от оптимального нормального базиса 2 или 3 типа к стандартному.}{36}
-\contentsline {subsection}{\numberline {2.5.4}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису второго типа}{37}
+\contentsline {subsection}{\numberline {2.5.4}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису второго типа}{36}
 \contentsline {subsection}{\numberline {2.5.5}Алгоритм перехода от стандартного базиса к оптимальному нормальному базису третьего типа}{37}
 \contentsline {chapter}{\numberline {3}Реализация}{39}
 \contentsline {section}{\numberline {3.1}Результаты оптимизации генерации простых чисел}{39}
@@ -36,9 +36,9 @@
 \contentsline {subsection}{\numberline {3.2.1}Генерация параметров}{41}
 \contentsline {subsection}{\numberline {3.2.2}Умножение}{43}
 \contentsline {subsection}{\numberline {3.2.3}Возведение в квадрат}{45}
-\contentsline {subsection}{\numberline {3.2.4}Обращение}{46}
-\contentsline {subsection}{\numberline {3.2.5}Переходы между базисами}{48}
-\contentsline {subsection}{\numberline {3.2.6}Относительные скорости основных алгоритмов арифметики}{49}
+\contentsline {subsection}{\numberline {3.2.4}Обращение}{47}
+\contentsline {subsection}{\numberline {3.2.5}Переходы между базисами}{49}
+\contentsline {subsection}{\numberline {3.2.6}Относительные скорости основных алгоритмов арифметики}{50}
 \contentsline {chapter}{Заключение}{51}
 \contentsline {chapter}{{\cyrillictext \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{52}
 \contentsline {chapter}{ПРИЛОЖЕНИЕ A. Реализация арифметики в нормальных базисах}{53}
